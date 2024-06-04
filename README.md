@@ -75,4 +75,4 @@ Chat Group
 ![Screenshot](https://github.com/abhi3585/Gather-chat-app/blob/64c6f58275bac3ff185169a3afb7af24816e2b7a/screenshots2/Screenshot%20(63).jpg)
 Profile Page
 
-![Screenshot](https://github.com/abhi3585/Gather-chat-app/blob/64c6f58275bac3ff185169a3afb7af24816e2b7a/screenshots2/Screenshot%20(58).jpg)
+
