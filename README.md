@@ -58,3 +58,21 @@ Community Building: Interest-based groups can be formed, allowing users to engag
 ## Application Demo 
 
 ![Screenshot](https://github.com/abhi3585/Gather-chat-app/blob/64c6f58275bac3ff185169a3afb7af24816e2b7a/screenshots2/Screenshot%20(58).jpg)
+Sign Up Page
+
+![Screenshot](https://github.com/abhi3585/Gather-chat-app/blob/64c6f58275bac3ff185169a3afb7af24816e2b7a/screenshots2/Screenshot%20(58).jpg)
+Login Page
+
+![Screenshot](https://github.com/abhi3585/Gather-chat-app/blob/64c6f58275bac3ff185169a3afb7af24816e2b7a/screenshots2/Screenshot%20(59).jpg)
+Chats Page
+
+![Screenshot](https://github.com/abhi3585/Gather-chat-app/blob/64c6f58275bac3ff185169a3afb7af24816e2b7a/screenshots2/Screenshot%20(60).jpg)
+Chat Groups Creation
+
+![Screenshot](https://github.com/abhi3585/Gather-chat-app/blob/64c6f58275bac3ff185169a3afb7af24816e2b7a/screenshots2/Screenshot%20(61).jpg)
+Chat Group
+
+![Screenshot](https://github.com/abhi3585/Gather-chat-app/blob/64c6f58275bac3ff185169a3afb7af24816e2b7a/screenshots2/Screenshot%20(63).jpg)
+Profile Page
+
+![Screenshot](https://github.com/abhi3585/Gather-chat-app/blob/64c6f58275bac3ff185169a3afb7af24816e2b7a/screenshots2/Screenshot%20(58).jpg)
