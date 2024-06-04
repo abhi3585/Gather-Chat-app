@@ -54,3 +54,7 @@ Social Networking: Gather provides a platform for friends and family to stay con
 Professional Communication: Teams can use Gather for project discussions, updates, and remote collaboration, making it an effective tool for workplace communication.
 
 Community Building: Interest-based groups can be formed, allowing users to engage with others who share similar hobbies, interests, or professional fields.
+
+## Application Demo 
+
+![Screenshot]{
